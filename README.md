@@ -188,8 +188,7 @@ paths:
               properties:
                 Seat_available:
                   type: string
-                  example: ряд 7 место 8
-                    
+                  example: ряд 7 место 8           
       responses:
         200: 
           description: Заказ обновлен
